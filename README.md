@@ -1,4 +1,4 @@
-# Face-Recogntition-with-Real-Time-Attendance
+# Face-Recognition-with-Real-Time-Attendance
 
 This is a Face Recognition Software using Computer Vision. 
 It marks the Realtime Attendance Marking using Firebase.
