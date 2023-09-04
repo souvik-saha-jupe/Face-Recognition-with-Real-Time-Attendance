@@ -18,4 +18,8 @@ For marking the attendance 1 time in 24 hours(actual condition), one needs to up
 {if secondElapsed > 60: } to {if secondElapsed>86400} 
 
 **Constraints :**
+
 It can't predict which face is real image and which face is artificial(image shown on the camera)
+
+P.S. : While copying my code, add your data and photo to this. Otherwise it can never recognise your face. :)
+
